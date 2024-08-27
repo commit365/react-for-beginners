@@ -174,3 +174,5 @@
      ```
 
 By exploring and applying these advanced TypeScript features in your React components, you can enhance type safety, improve code readability, and create more flexible and maintainable applications.
+
+[Next: 29-Building-Responsive-UIs](29-Building-Responsive-UIs.md)

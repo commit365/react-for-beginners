@@ -31,3 +31,5 @@
   4. **Benchmarking**: Regularly benchmark your application to track performance changes over time. Use tools like Lighthouse to get insights into performance, accessibility, and best practices.
 
 By applying these optimization techniques and utilizing profiling tools, you can significantly enhance the performance of your React applications, leading to a better user experience and improved engagement.
+
+[Next: 23-Building-a-Complete-Application](23-Building-a-Complete-Application.md)

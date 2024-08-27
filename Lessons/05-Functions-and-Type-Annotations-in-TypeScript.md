@@ -35,3 +35,5 @@
     ```
 
 Using type annotations for functions helps ensure that the correct types are passed and returned, making your code more robust and easier to understand.
+
+[Next: 06-Creating-Your-First-React-Component](06-Creating-Your-First-React-Component.md)

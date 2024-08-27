@@ -131,3 +131,5 @@
   - **Example of Handling Errors**: In the examples above, we handle errors by catching exceptions and setting an error message in the state.
 
 By effectively fetching data from APIs using `fetch` or `axios` and handling asynchronous requests with TypeScript, you can create dynamic and responsive React applications that interact with external data sources.
+
+[Next: 21-Managing-Side-Effects-with-useEffect](21-Managing-Side-Effects-with-useEffect.md)

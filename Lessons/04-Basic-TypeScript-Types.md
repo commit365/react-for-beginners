@@ -45,3 +45,5 @@
     ```
 
 Understanding these basic types is essential for effectively using TypeScript in your React applications, as they help ensure type safety and improve code clarity.
+
+[Next: 05-Functions-and-Type-Annotations-in-TypeScript](05-Functions-and-Type-Annotations-in-TypeScript.md)

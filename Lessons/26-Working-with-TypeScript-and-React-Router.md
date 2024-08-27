@@ -152,3 +152,5 @@
      ```
 
 By integrating TypeScript with React Router, you can create a robust and type-safe navigation system in your React applications, enhancing both developer experience and application reliability. This setup allows you to manage routes, parameters, and navigation effectively while leveraging TypeScript's type-checking capabilities.
+
+[Next: 27-State-Management-with-Redux](27-State-Management-with-Redux.md)

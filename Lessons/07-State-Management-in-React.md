@@ -37,3 +37,5 @@
   - `setCount(count + 1)` updates the state when the button is clicked, incrementing the count by 1.
 
 Using state effectively allows you to create dynamic and interactive components in your React applications.
+
+[Next: 08-Class-Components-and-Lifecycle-Methods](08-Class-Components-and-Lifecycle-Methods.md)

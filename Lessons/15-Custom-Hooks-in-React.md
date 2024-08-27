@@ -57,3 +57,5 @@
      - The component renders the count and buttons to increment, decrement, and reset the counter.
 
 By creating and using custom hooks, you can encapsulate complex logic and share it across multiple components, leading to cleaner, more maintainable code in your React applications.
+
+[Next: 16-TypeScript-Generics-in-React](16-TypeScript-Generics-in-React.md)

@@ -109,3 +109,5 @@
      ```
 
 By using generics in your React components and hooks, you can create flexible, reusable, and type-safe code that adapts to various data types while maintaining the benefits of TypeScript's type system.
+
+[Next: 17-Error-Boundaries-in-React](17-Error-Boundaries-in-React.md)

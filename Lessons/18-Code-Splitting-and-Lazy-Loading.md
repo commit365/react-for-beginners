@@ -48,3 +48,5 @@
      ```
 
 By implementing code splitting and using `React.lazy` and `Suspense`, you can optimize the loading performance of your React applications, resulting in a smoother user experience. This approach allows you to load only the components that are needed at any given time, reducing the initial bundle size and improving load times.
+
+[Next: 19-Testing-React-Componenets](19-Testing-React-Componenets.md)

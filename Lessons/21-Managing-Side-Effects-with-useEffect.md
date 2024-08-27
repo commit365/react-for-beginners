@@ -116,3 +116,5 @@
      - The cleanup function removes the event listener when the component unmounts or before the effect runs again.
 
 By effectively using the `useEffect` hook, you can manage side effects in your functional components, ensuring that your application behaves as expected while maintaining a clean and organized code structure.
+
+[Next: 22-Performance-Optimization-Techniques](22-Performance-Optimization-Techniques.md)

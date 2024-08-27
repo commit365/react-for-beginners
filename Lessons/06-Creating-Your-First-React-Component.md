@@ -48,3 +48,5 @@
   In this example, if the `name` prop is not provided when using the `Greeting` component, it will default to "Guest".
 
 By understanding how to create functional components and work with props, you can build reusable UI elements in your React applications.
+
+[Next: 07-State-Management-in-React](07-State-Management-in-React.md)

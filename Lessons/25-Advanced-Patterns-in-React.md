@@ -156,3 +156,5 @@
   - The `Tab` component receives props from the parent to determine its active state and handle clicks.
 
 By understanding and implementing higher-order components, render props, and compound components, you can create more flexible and reusable React components that enhance the functionality and maintainability of your applications.
+
+[Next: 26-Working-with-TypeScript-and-React-Router](26-Working-with-TypeScript-and-React-Router.md)

@@ -27,3 +27,5 @@
      Your new React app will open in your default web browser at `http://localhost:3000`.
 
 Now your development environment is set up, and you're ready to start building your React application!
+
+[Next: 03-Understanding-TypeScript](03-Understanding-TypeScript.md)

@@ -25,3 +25,5 @@
      ```
 
 Now your React project is set up to use TypeScript, allowing you to take advantage of its powerful features!
+
+[Next: 04-Basic-TypeScript-Types](04-Basic-TypeScript-Types.md)

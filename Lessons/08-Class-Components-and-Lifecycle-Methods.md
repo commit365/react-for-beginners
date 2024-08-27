@@ -70,3 +70,5 @@
     ```
 
 By understanding how to create class components and utilize lifecycle methods, you can effectively manage the behavior and state of your React applications, especially when dealing with complex interactions and data fetching.
+
+[Next: 09-Handling-Events-in-React](09-Handling-Events-in-React.md)

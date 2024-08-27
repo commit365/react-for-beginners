@@ -137,3 +137,5 @@
      - We use `useDispatch` to dispatch actions when buttons are clicked.
 
 By following these steps, you can effectively set up Redux with TypeScript in your React application, allowing you to manage state in a predictable and organized manner. This integration enhances the scalability and maintainability of your application, especially as it grows in complexity.
+
+[Next: 28-Advanced-TypeScript-Features](28-Advanced-TypeScript-Features.md)

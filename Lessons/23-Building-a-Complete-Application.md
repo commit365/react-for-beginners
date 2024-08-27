@@ -147,3 +147,5 @@
      Use CSS modules, styled-components, or any preferred styling method to style your components.
 
 By following these steps, you can integrate all the concepts you've learned into a complete React application. This approach not only reinforces your understanding but also prepares you to build real-world applications using React and TypeScript.
+
+[Next: 24-Deploying-React-Applications](24-Deploying-React-Applications.md)

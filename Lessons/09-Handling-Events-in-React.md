@@ -57,3 +57,5 @@
   - `event.target.value` retrieves the current value of the input field, and `setText` updates the state accordingly.
 
 By effectively handling events in your React components and utilizing TypeScript for type safety, you can create interactive and user-friendly applications.
+
+[Next: 10-Conditional-Rendering-Techniques](10-Conditional-Rendering-Techniques.md)
