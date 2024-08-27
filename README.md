@@ -133,8 +133,8 @@ Welcome to the **React with TypeScript Course**! This repository contains a comp
 ### Installation Instructions
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/react-typescript-course.git
-   cd react-typescript-course
+   git clone https://github.com/yourusername/react-for-beginners.git
+   cd react-for-beginners
    ```
 
 2. **Install Dependencies**:
